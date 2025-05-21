@@ -53,3 +53,8 @@ module.exports = {
 ```bash
 npm i webpack-cli
 ```
+
+### Adicionar Tailwindcss
+```bash
+npm install tailwindcss @tailwindcss/cli
+```
