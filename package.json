@@ -1,0 +1,19 @@
+{
+  "name": "html-typescript-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development -w"
+  },
+  "author": "carlosmaestro",
+  "license": "MIT",
+  "description": "Initial project HTML & Typescript based on node, webpack, typescript e html",
+  "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
